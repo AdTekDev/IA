@@ -54,3 +54,5 @@ docker run -it --rm --name n8n -p 5678:5678 -v n8n_data:/home/node/.n8n docker.n
 ### cài n8n có sẵn llm
 - https://github.com/n8n-io/self-hosted-ai-starter-kit
 
+Zalo   
+- https://zalo.me/g/sucpbr376 
