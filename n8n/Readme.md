@@ -21,6 +21,26 @@ Chạy lệnh cài n8n
 npx n8n
 ```
 
+Hoặc  
+```
+npm init -y
+
+npm install n8n
+
+Chỉnh json   
+    "scripts": {
+    "start": "n8n"
+    }
+```
+
+Chỉnh tập tin  .env  
+```
+    N8N_PORT=5678
+    N8N_BASIC_AUTH_ACTIVE=true
+    N8N_BASIC_AUTH_USER=admin
+    N8N_BASIC_AUTH_PASSWORD=123456
+```
+
 ### hoặc với Docker 
 - cài Docker
 
